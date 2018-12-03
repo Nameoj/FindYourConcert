@@ -1,4 +1,4 @@
-# [Find your concert](https://jnbourrat.github.io/)
+# [Find your concert](https://nameoj.github.io/findyourconcert/)
 A responsive website that allows you to find concerts all around the world with a bunch of other cool features.
 Designed in under seven weeks during an intensive web developer course @[Wild Code School](https://github.com/WildCodeSchool)
 
