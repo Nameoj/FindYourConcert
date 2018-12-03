@@ -8,7 +8,7 @@ Designed in under seven weeks during an intensive web developer course @[Wild Co
 * [Julien Schader](https://github.com/Nameoj)
 * [Magali Klein](https://github.com/Pelican07)
 * [Zakaria Hamichi](https://github.com/ZakariaHamichi)
-* Jean-Noël Bourrat
+* [Jean-Noël Bourrat](https://github.com/JNBourrat)
 
 ## Goal / _Objectif_ :
 
